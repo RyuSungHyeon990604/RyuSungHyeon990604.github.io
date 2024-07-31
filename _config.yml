@@ -5,8 +5,8 @@ url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. ht
 
 # Author
 author-name:    류성현
-author-image:   1.jpg
-author-job:     Web Developer
+author-image: 프로필사진.jpg
+author-job:     백엔드개발자
 author-email:   shryoo990604@gmail.com # Add your email for contant form.
 author-twitter:  # Add your twitter account
 about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
@@ -14,7 +14,7 @@ about-author:   I am a web developer focusing on front-end development. Always h
 # Social settings
 social-twitter:
 social-facebook:
-social-github:
+social-github: https://github.com/RyuSungHyeon990604
 social-pinterest:
 social-instagram:
 social-youtube:
